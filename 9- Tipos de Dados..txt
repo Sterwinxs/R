@@ -1,0 +1,7 @@
+                       			   Tipos de dados.
+  
+	Variáveis Qualitativas Ordinais: São variáveis que podem ser ordenadas ou hierarquizadas.
+
+	Variáveis Quantitativas Contínuas: Quando representa a idade exata, sendo representado por frações de anos.
+	
+	Variáveis Quantitativas Discreta: Quando representa anos completos (números inteiros).
